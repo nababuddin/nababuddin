@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seikh Nabab Uddin</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate XR developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababuddin&label=Profile%20views&color=0e75b6&style=flat" alt="nababuddin" /> </p>
 
