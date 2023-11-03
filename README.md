@@ -1,3 +1,4 @@
+[![An image of @nababuddin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nababuddin)](https://holopin.io/@nababuddin)
 <h1 align="center">Hi 👋, I'm Seikh Nabab Uddin</h1>
 <h3 align="center">A passionate XR developer from India</h3>
 
