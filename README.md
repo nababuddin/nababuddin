@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nababuddin80160@gmial.com**
 
-- ⚡ Fun fact **I do gaming too**
+- ⚡ **Always Ready For HACKATHONS**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
