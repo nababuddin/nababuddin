@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [VR ZOO](https://www.instagram.com/ar/1000495164626332/)
 
-- 🌱 I’m currently learning **React, Unity and Web3**
+- 🌱 I’m currently learning **XR, Unity and Web3**
 
 - 👯 I’m looking to collaborate on **Metaverse**
 
