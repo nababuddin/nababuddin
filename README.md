@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://techtrioinsights.hashnode.dev/](https://techtrioinsights.hashnode.dev/)
 
-- 💬 Ask me about **AR/VR, Blockchain, AI Tools and Front End Developing**
+- 💬 Ask me about **AR/VR, PROMPT ENGINEERING, GEN AI and METAVERSE**
 
 - 📫 How to reach me **nababuddin80160@gmial.com**
 
