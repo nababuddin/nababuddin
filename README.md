@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **AR/VR, PROMPT ENGINEERING, GEN AI and METAVERSE**
 
-- 📫 How to reach me **nababuddin80160@gmial.com**
+- 📫 How to reach me **nababuddin80160@gmail.com**
 
 - ⚡ **Always Ready For HACKATHONS**
 
