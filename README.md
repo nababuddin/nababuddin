@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/nababuddin2" target="blank"><img src="https://img.shields.io/twitter/follow/nababuddin2?logo=twitter&style=for-the-badge" alt="nababuddin2" /></a> </p>
 
-- 🔭 I’m currently working on [VR ZOO](https://www.instagram.com/ar/1000495164626332/)
-
 - 💬 Ask me about **ROMPT ENGINEERING, GEN AI & AI Content Creation**
 
 - 📫 How to reach me **nababuddin80160@gmail.com**
