@@ -1,6 +1,6 @@
 [![An image of @nababuddin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nababuddin)](https://holopin.io/@nababuddin)
 <h1 align="center">Hi 👋, I'm Seikh Nabab Uddin</h1>
-<h3 align="center">A passionate XR developer from India</h3>
+<h3 align="center">An AI Content Creator from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababuddin&label=Profile%20views&color=0e75b6&style=flat" alt="nababuddin" /> </p>
 
@@ -8,21 +8,10 @@
 
 - 🔭 I’m currently working on [VR ZOO](https://www.instagram.com/ar/1000495164626332/)
 
-- 🌱 I’m currently learning **XR, Unity and Web3**
-
-- 👯 I’m looking to collaborate on **Metaverse**
-
-- 📝 I regularly write articles on [https://techtrioinsights.hashnode.dev/](https://techtrioinsights.hashnode.dev/)
-
-- 💬 Ask me about **AR/VR, PROMPT ENGINEERING, GEN AI and METAVERSE**
+- 💬 Ask me about **ROMPT ENGINEERING, GEN AI & AI Content Creation**
 
 - 📫 How to reach me **nababuddin80160@gmail.com**
 
-- ⚡ **Always Ready For HACKATHONS**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
